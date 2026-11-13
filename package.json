@@ -1,0 +1,11 @@
+{
+  "name": "ridego",
+  "private": true,
+  "scripts": {
+    "install:server": "cd server && npm install --include=dev --prefer-offline --no-fund --no-audit",
+    "install:client": "cd client && npm install --no-fund --no-audit",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build"
+  }
+}

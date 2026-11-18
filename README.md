@@ -1,4 +1,4 @@
-# RideGo
+# RideMint
 
 RideGo is a full-stack Uber-style ride booking demo built with the MERN stack for a college major/minor project. This project includes customer booking workflows, a driver dashboard, admin analytics, JWT-based authentication, and a reusable map-based ride booking flow.
 
